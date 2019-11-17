@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="Shift_JIS" standalone="no"?>
+<?xml-stylesheet href="imas-cg.xsl" type="text/xsl" ?>
+
+<!DOCTYPE itemlist[
+ <!ELEMENT itemlist (item*)>
+ <!ELEMENT item (data*)>
+ <!ELEMENT data EMPTY>
+ <!ATTLIST data name CDATA #REQUIRED
+                value CDATA #REQUIRED>
+]>
+
+<itemlist>
+  <item>
+    <data name="名前" value="本田未央"/>
+    <data name="年齢" value="15"/>
+    <data name="出身地" value="千葉"/>
+    <data name="タイプ" value="パッション"/>
+  </item>
+  <item>
+    <data name="名前" value="北条加蓮"/>
+    <data name="年齢" value="16"/>
+    <data name="出身地" value="東京"/>
+    <data name="タイプ" value="クール"/>
+  </item>
+  <item>
+    <data name="名前" value="夢見りあむ"/>
+    <data name="年齢" value="19"/>
+    <data name="出身地" value="やさしい世界"/>
+    <data name="タイプ" value="パッション"/>
+  </item>
+  <item>
+    <data name="名前" value="遊佐こずえ"/>
+    <data name="年齢" value="11"/>
+    <data name="出身地" value="高知"/>
+    <data name="タイプ" value="キュート"/>
+  </item>
+  <item>
+    <data name="名前" value="佐城雪美"/>
+    <data name="年齢" value="10"/>
+    <data name="出身地" value="京都"/>
+    <data name="タイプ" value="クール"/>
+  </item>
+  <item>
+    <data name="名前" value="一ノ瀬志希"/>
+    <data name="年齢" value="18"/>
+    <data name="出身地" value="岩手"/>
+    <data name="タイプ" value="キュート"/>
+  </item>
+  <item>
+    <data name="名前" value="鷺沢文香"/>
+    <data name="年齢" value="19"/>
+    <data name="出身地" value="長野"/>
+    <data name="タイプ" value="クール"/>
+  </item>
+  <item>
+    <data name="名前" value="佐久間まゆ"/>
+    <data name="年齢" value="16"/>
+    <data name="出身地" value="仙台"/>
+    <data name="タイプ" value="キュート"/>
+  </item>
+  <item>
+    <data name="名前" value="ナターリア"/>
+    <data name="年齢" value="14"/>
+    <data name="出身地" value="リオデジャネイロ"/>
+    <data name="タイプ" value="パッション"/>
+  </item>
+  <item>
+    <data name="名前" value="的場梨沙"/>
+    <data name="年齢" value="12"/>
+    <data name="出身地" value="山口"/>
+    <data name="タイプ" value="パッション"/>
+  </item>
+  <item>
+    <data name="名前" value="高垣楓"/>
+    <data name="年齢" value="25"/>
+    <data name="出身地" value="和歌山"/>
+    <data name="タイプ" value="クール"/>
+  </item>
+  <item>
+    <data name="名前" value="工藤忍"/>
+    <data name="年齢" value="16"/>
+    <data name="出身地" value="青森"/>
+    <data name="タイプ" value="キュート"/>
+  </item>
+  <item>
+    <data name="名前" value="緒方智絵里"/>
+    <data name="年齢" value="16"/>
+    <data name="出身地" value="三重"/>
+    <data name="タイプ" value="キュート"/>
+  </item>
+  <item>
+    <data name="名前" value="浅利七海"/>
+    <data name="年齢" value="14"/>
+    <data name="出身地" value="青森"/>
+    <data name="タイプ" value="クール"/>
+  </item>
+  <item>
+    <data name="名前" value="高森藍子"/>
+    <data name="年齢" value="16"/>
+    <data name="出身地" value="東京"/>
+    <data name="タイプ" value="パッション"/>
+  </item>
+</itemlist>
